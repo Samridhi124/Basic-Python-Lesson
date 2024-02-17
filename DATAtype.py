@@ -1,0 +1,14 @@
+a=10
+print("Data-Type:-",type(a))
+b=12.3
+print("Data-Type:-",type(b))
+c=True
+print("Data-Type:-",type(c))
+d="Ram"
+print("Data-Type:-",type(d))
+e=["A"]
+print("Data-Type:-",type(e))
+f=("e","b")
+print("Data-Type:-",type(f))
+g={"car":"Audi"}
+print("Data-Type:-",type(g))
